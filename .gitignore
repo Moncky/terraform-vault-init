@@ -1,0 +1,7 @@
+.idea
+.terraform*
+vault_init/pyvenv.cfg
+vault_init/bin**
+vault_init/lib**
+vault_init/include**
+**/__pycahce__
